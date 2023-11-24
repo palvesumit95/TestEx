@@ -12,7 +12,7 @@ public class AdditionEx {
 	public static void main(String[] args) {
 		AdditionEx additionEx=new AdditionEx();
 		int add=additionEx.addtion(10, 20);
-		System.out.println(add);
+		System.out.println("total = " + add);
 		
 	}
 }
